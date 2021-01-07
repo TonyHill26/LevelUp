@@ -22,6 +22,9 @@ advanced:
 
 ...is supporting A-level students from under-represented backgrounds in Maths, Physics and Chemistry. The first cohort of students starts in February 2021.
 
+
+{{< figure library="true" src="students2.jpg" title="" >}}
+
 We believe that _Levelling Up_ will succeed primarily because of its high quality. In particular, the core materials and the tutoring programmes are being designed and led by a team of the UK's foremost experts in this area of activity.
 
 Moreover, we note that _Levelling Up_ is:
