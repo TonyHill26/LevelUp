@@ -29,5 +29,5 @@ We believe that _Levelling Up_ will succeed primarily because of its high qualit
 
 Moreover, we note that _Levelling Up_ is:
  - Well-resourced and builds on existing best educational practice;
- - A sustained intervention, with clear and measurable goals;
+ - A sustained enrichment, with clear and measurable goals;
  - Founded on the use of new technology, including Zoom (or similar) and graphics tablets. 
