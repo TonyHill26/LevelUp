@@ -9,7 +9,7 @@ weight: 20  # Order that this section will appear.
 title: "Inclusion"
 ---
 
-In simple terms, we are proposing an eighteen-month academic and pastoral intervention that starts midway through Year 12 and continues until the end of Year 13. We will actively target students from under-represented groups. The academic focus will be on Mathematics, Physics and Chemistry and the programme will be delivered through small groups over Zoom. 
+In simple terms, we are proposing an eighteen-month academic and pastoral intervention that starts midway through Year 12 and continues until the end of Year 13. We will actively target students from under-represented groups. The academic focus will be on Mathematics, Physics and Chemistry and the programme will be delivered through small groups over Zoom (or similar). 
 
 
 {{< figure library="true" src="coders.jpg" title="" >}}
