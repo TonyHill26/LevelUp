@@ -6,7 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Levelling Up STEM"
+title: 'Levelling Up: STEM'
 subtitle: ""
 hero_media: students2.jpg
 design:
