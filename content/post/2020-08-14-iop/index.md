@@ -1,5 +1,5 @@
 ---
-title: Institute of Physics joins Levelling Up: STEM
+title: Institute of Physics joins Levelling Up STEM
 date: '2020-08-14'
 lastmod: '2020-08-14'
 slug: iop
