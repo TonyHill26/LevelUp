@@ -1,5 +1,5 @@
 ---
-title: London Mathematical Society joins Levelling Up STEM
+title: 'London Mathematical Society joins Levelling Up: STEM'
 date: '2020-08-06'
 lastmod: '2020-08-06T23:08:15-05:00'
 slug: lms

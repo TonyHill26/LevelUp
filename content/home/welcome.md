@@ -25,9 +25,9 @@ advanced:
 
 {{< figure library="true" src="students2.jpg" title="" >}}
 
-We believe that _Levelling Up STEM_ will succeed primarily because of its high quality. In particular, the core materials and the tutoring programmes are being designed and led by a team of the UK's foremost experts in this area of activity.
+We believe that _Levelling Up: STEM_ will succeed primarily because of its high quality. In particular, the core materials and the tutoring programmes are being designed and led by a team of the UK's foremost experts in this area of activity.
 
-Moreover, we note that _Levelling Up STEM_ is:
+Moreover, we note that _Levelling Up: STEM_ is:
  - Well-resourced and builds on existing best educational practice;
  - A sustained enrichment, with clear and measurable goals;
  - Founded on the use of new technology, including Zoom (or similar) and graphics tablets. 
