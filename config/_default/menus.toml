@@ -41,7 +41,12 @@
   name = "Case study"
   url = "/#case_study"
   weight = 45  
+ 
   
+[[main]]
+  name = "Contact us"
+  url = "/#contact_us"
+  weight = 60 
   
 # [[main]]
 #  name = "People"
