@@ -20,7 +20,7 @@ advanced:
 
 &nbsp;
 
-...is supporting A-level students from under-represented backgrounds in Maths, Physics and Chemistry. The first cohort of students starts in February 2021.
+...is supporting A-level students from under-represented backgrounds in Maths, Physics and Chemistry. The first cohort of students starts in March 2021.
 
 
 {{< figure library="true" src="students2.jpg" title="" >}}
