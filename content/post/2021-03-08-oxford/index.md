@@ -24,6 +24,5 @@ projects: []
 
 > "It is incredibly important to us to be part of this innovative and collaborative national programme,"" comments Dr Sian Tedaldi who heads up the Department of Physics’ award-winning outreach work. "Inspiring the next generation is one of our primary objectives and this programme is a great example of sustained, active engagement that could make a real difference to students’ lives. We are extremely grateful for the generous funding from an Oxford alumnus too.""
 
-> "Here at Durham University we are passionate about helping students succeed, regardless of their background or circumstances. We are delighted that Dr Tony Hill's gift will support us to do just that."
 
 Read the full [press release](https://www2.physics.ox.ac.uk/news/2021/03/08/tutoring-and-mentoring-for-local-y12-students) from Oxford University.
