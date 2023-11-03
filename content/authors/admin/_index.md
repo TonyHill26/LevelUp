@@ -10,7 +10,7 @@ role: Funder & Co-creator
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,7 +40,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tonyhill26@waitrose.com'
+  link: 'mailto:tonyhill1729@gmail.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
