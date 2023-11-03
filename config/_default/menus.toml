@@ -7,23 +7,23 @@
   name = "Home"
   url = "/"
   weight = 10
-  
+
 [[main]]
   name = "Diversity"
   url = "/#diversity"
-  weight = 15  
-  
+  weight = 15
+
 [[main]]
   name = "Inclusion"
   url = "/#inclusion"
   weight = 20
 
-  
+
 [[main]]
   name = "Collaboration"
   url = "/#collaboration"
   weight = 25
-  
+
 [[main]]
   name = "Evidence based"
   url = "/#evidence_based"
@@ -36,34 +36,15 @@
   url = "/#news"
   weight = 40
 
-  
+
 [[main]]
   name = "Case study"
   url = "/#case_study"
-  weight = 45  
- 
-  
+  weight = 45
+
+
 [[main]]
   name = "Contact us"
   url = "/#contact_us"
-  weight = 60 
-  
-# [[main]]
-#  name = "People"
-#  url = "people"
-#  weight = 50
+  weight = 60
 
-# [[main]]
-#  name = "Events"
-#  url = "event"
-#  weight = 40
-
-# [[main]]
-#  name = "Publications"
-#  url = "publication"
-#  weight = 50
-
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 60
