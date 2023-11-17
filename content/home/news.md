@@ -7,7 +7,7 @@ title: Latest News
 subtitle:
 
 content:
-  count: 5
+  count: 3
   filters:
     author: ""
     category: ""
@@ -21,3 +21,5 @@ design:
   view: 3
   columns: "1"
 ---
+
+Read more

@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "Diversity"
-  url = "/#diversity"
+  name = "Universities"
+  url = "/#participating_universities"
   weight = 15
 
 [[main]]
-  name = "Inclusion"
-  url = "/#inclusion"
+  name = "Goals"
+  url = "/#goals"
   weight = 20
 
 
@@ -29,19 +29,10 @@
   url = "/#evidence_based"
   weight = 30
 
-
-
 [[main]]
   name = "News"
   url = "/#news"
   weight = 40
-
-
-[[main]]
-  name = "Case study"
-  url = "/#case_study"
-  weight = 45
-
 
 [[main]]
   name = "Contact us"
