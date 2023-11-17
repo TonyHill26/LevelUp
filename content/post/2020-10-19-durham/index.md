@@ -2,7 +2,7 @@
 title: 'Durham University joins Levelling Up: STEM'
 date: '2020-10-19'
 lastmod: '2020-10-19'
-slug: durham
+slug: durham-university-joins-levelling-up-stem
 categories: []
 tags: []
 subtitle: ''
@@ -20,8 +20,12 @@ projects: []
 
 <!--more-->
 
-> Professor Jacqui Ramagge, Executive Dean for the Faculty of Science at Durham University, said: "We are proud to be taking the lead in a programme which will impact the lives of many young people in the North East and more broadly across the UK."
+Professor Jacqui Ramagge, Executive Dean for the Faculty of Science at Durham University, said: "We are proud to be taking the lead in a programme which will impact the lives of many young people in the North East and more broadly across the UK."
 
-> "Here at Durham University we are passionate about helping students succeed, regardless of their background or circumstances. We are delighted that Dr Tony Hill's gift will support us to do just that."
+> "Here at Durham University we are passionate about helping students succeed, regardless of their background or circumstances."
 
-Read the full [press release](https://www.dur.ac.uk/experience/news/?itemno=42895) from Durham University.
+"We are delighted that Dr Tony Hill's gift will support us to do just that."
+
+Find out more about the programme [here](https://www.durham.ac.uk/departments/academic/physics/research/levelling-up/) on the Durham University website.
+
+Read the full [story](https://www.palatinate.org.uk/programme-launched-by-durham-university-to-support-north-east-students/) on the Durham University student website.
