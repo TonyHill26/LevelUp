@@ -17,9 +17,9 @@ advanced:
 
 **Supporting A-level students**
 
-... from underserved groups in Maths, Physics & Chemistry who may be planning to study a STEM subject at university. Combining high quality academic material, with an integrated pastoral programme, it is delivered in small tutor groups by STEM undergraduates from a local university.
+**Levelling Up: STEM** nurtures A-level students from underserved groups in Maths, Physics & Chemistry who may be planning to study a STEM subject at university. Combining high quality academic material, with an integrated pastoral programme, it is delivered in small tutor groups by STEM undergraduates from a local university.
 
-**Levelling Up: STEM** provides continuous support that begins midway through Year 12 and runs until the A-level examinations in Year 13. The pilot programme ran from Spring 2021 to early Summer 2022 in Maths, Physics & Chemistry at Birmingham, Durham, Leicester & Oxford. The current cohort (2023/24) has 750 sixth-formers on the programme at a total of 21 universities.
+**Levelling Up: STEM** provides continuous support that begins midway through Year 12 and runs until the A-level examinations in Year 13. The pilot programme ran from Spring 2021 to early Summer 2022 in Maths, Physics & Chemistry at Birmingham, Durham, Leicester & Oxford. The current cohort (2023/24) has 750 sixth-formers on the programme at a total of 21 universities and this is on track to double over the next two years.
 
 
 {{< figure library="true" src="students2.jpg" title="" >}}
@@ -34,4 +34,4 @@ Students from underserved groups can be hard to reach. Accordingly, our central 
 
 **For all underserved groups.**
 
-In addition to the core programme, the first cohort of Levelling Up: Maths for Black Heritage Students started at five universities in England in 2022.
+In addition to the core programme, the first cohort of Levelling Up: Maths for Black Heritage Students started at five universities in England in 2022. [read more]({{< ref "/post/2022-09-28-black-heritage/index.md" >}})
