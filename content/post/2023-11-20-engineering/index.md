@@ -26,7 +26,7 @@ Following the success of **Levelling Up: Maths**, **Levelling Up: Physics**, and
 
 The goal in the next 12 months is to sign up engineering faculties at 10 universities, for an initial cohort of 200 students, and then to expand this to 1,000 students across 35 universities the following year.
 
-We will support A-level maths students on our programme with tutorials that give maths concepts a practical engineering angle. For example - how vectors are used to build bridges, complex numbers in designing wind turbines, and probability to create safe transportation systems.
+We will support A-level maths students on our programme with tutorials that give maths concepts a practical engineering angle. For example - how vectors are used to build bridges, calculus in designing wind turbines, and probability to create safe transportation systems.
 
 With Levelling Up: Maths for Engineering we can:
 
