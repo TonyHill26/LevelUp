@@ -42,3 +42,5 @@ We are looking for:
 * academics that would be interested in joining a small, multi-university team to develop the course content
 
 Please do get in touch! Email us at {{< cloaked_emails/engineering >}}
+
+> Read our post about Engineering Study in the UK [here]({{< ref "/post/2023-11-23-engineering-study-in-the-uk" >}})
