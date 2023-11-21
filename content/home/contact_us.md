@@ -15,3 +15,4 @@ For more information, please contact any one of the following:
 * Levelling Up: Physics (Birmingham) - LevellingUp@iop.org
 * Levelling Up: Chemistry (Durham) - Levelling.up@durham.ac.uk
 * Reaching Higher (Scotland) (Glasgow)
+* Levelling Up: Maths for Engineering (NEW!) - {{< cloaked_emails/engineering >}}
