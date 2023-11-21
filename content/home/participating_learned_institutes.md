@@ -14,4 +14,4 @@ The learned societies we are involved with at the moment are:
 - Institute of Physics (IOP)
 - Royal Society of Chemistry (RSC)
 
-We are looking for more support in engineering .. please contact us.
+We are looking for more support in engineering .. please see our [blog post]({{< ref "/post/2023-11-20-engineering" >}}) or contact us at {{< cloaked_emails/engineering >}}.

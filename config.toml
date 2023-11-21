@@ -43,6 +43,10 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
 
+# Try and use specified lastmod date, if possible
+[frontmatter]
+  lastmod = ["lastmod", "date", "publishDate", ":git"]
+
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
   section = [ "HTML", "RSS" ]
