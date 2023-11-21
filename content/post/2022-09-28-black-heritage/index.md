@@ -42,7 +42,7 @@ Paul Glendinning, IMA President noted:
 
 > "The IMA is delighted to be part of the STEM coalition supporting this new initiative. We look forward to seeing it make a positive difference to the futures of all those involved."
 
-The IMA and LMS would like to hear from university Maths departments interested in joining this programme. They should contact either Erica Tyson (Erica.Tyson@ima.org.uk) or Lindsay Walsh (lindsay.walsh@lms.ac.uk) for more information.
+The IMA and LMS would like to hear from university Maths departments interested in joining this programme. They should contact either Emma Emmerton (emma.emmerton@ima.org.uk) or Jennifer Gunn (jennifer.gunn@lms.ac.uk) for more information.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
