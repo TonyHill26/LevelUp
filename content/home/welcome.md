@@ -34,4 +34,4 @@ Students from underserved groups can be hard to reach. Accordingly, our central 
 
 **For all underserved groups.**
 
-In addition to the core programme, the first cohort of Levelling Up: Maths for Black Heritage Students started at five universities in England in 2022. [read more]({{< ref "/post/2022-09-28-black-heritage/index.md" >}})
+In addition to the core programme, the first cohort of Levelling Up: Maths for Black Heritage Students started at five universities in England in 2023. [read more]({{< ref "/post/2022-09-28-black-heritage/index.md" >}})
