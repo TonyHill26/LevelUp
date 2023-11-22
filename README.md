@@ -45,3 +45,7 @@ Then run `hugo server --buildDrafts` to see the post.
 Or - you can create a branch and pull request, to create a pre-release version you can share with others on a hidden Neflify URL.
 
 Remember to remove the `draft: true`!
+
+## DNS Records
+
+Please see [DNS Records](dns-records.md) for the Netlify DNS records.
