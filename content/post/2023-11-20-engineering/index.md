@@ -9,7 +9,7 @@ categories: []
 tags: []
 subtitle: ''
 summary: ''
-authors: ['peter_wake']
+authors: []
 featured: yes
 image:
   caption: ''

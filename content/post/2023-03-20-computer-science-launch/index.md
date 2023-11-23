@@ -9,9 +9,10 @@ categories: []
 tags: []
 subtitle: ''
 summary: ''
-authors: ['tony_hill']
+authors: []
 featured: yes
 image:
+  url: students-studying-computer-science.jpg
   caption: ''
   focal_point: ''
   preview_only: no

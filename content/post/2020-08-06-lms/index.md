@@ -7,7 +7,7 @@ categories: []
 tags: []
 subtitle: ''
 summary: ''
-authors: ['tony_hill']
+authors: []
 featured: yes
 image:
   caption: ''
