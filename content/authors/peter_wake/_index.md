@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Peter Wake
+slug: peter-wake
 
 # Is this the primary user of the site?
 superuser: false
