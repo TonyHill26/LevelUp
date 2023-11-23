@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Dr. Tony Hill
+slug: tony-hill
 
 # Is this the primary user of the site?
 superuser: false
