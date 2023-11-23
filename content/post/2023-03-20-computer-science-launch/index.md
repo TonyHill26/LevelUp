@@ -1,5 +1,5 @@
 ---
-title: 'Levelling Up: Computer Science has launched'
+title: 'Levelling Up: Maths for Computer Science has launched'
 date: '2023-03-20'
 lastmod: '2023-03-20'
 # hugo server --buildDrafts to see this post!
