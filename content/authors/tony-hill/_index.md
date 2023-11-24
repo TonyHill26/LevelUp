@@ -2,6 +2,7 @@
 # Display name
 title: Dr. Tony Hill
 slug: tony-hill
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
