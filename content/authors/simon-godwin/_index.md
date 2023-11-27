@@ -48,4 +48,4 @@ Simon is also the Chair of the London Library and is a Trustee of the Royal Inst
 
 A long advocate of the aims of Levelling Up: STEM, Simon was instantly drawn to the chance to create something which can have a large, and scaleable, impact. Changing enthusiastic and driven student’s perceptions and enriching their skills, helping them to successfully gain a place at University and then achieve a good degree is a privilege.
 
-When not annoying the various institutions he is involved with, Simon spending time in the Outer Hebrides, walking up random mountains and maintaining his claim to have read every single Booker Prize winner.
+When not annoying the various institutions he is involved with, Simon is spending time in the Outer Hebrides, walking up random mountains and maintaining his claim to have read every single Booker Prize winner.
