@@ -26,14 +26,14 @@ projects: []
 
 Engineering is a big subject at university. There were 110,000 students (about 34,000 per annum), of which 25% were overseas students, studying for a first degree in engineering full-time in the UK in 2021. It is larger than computing as a subject, and larger than maths and physics combined. Nonetheless, we need more professional engineers in the UK.
 
-{{< figure library="true" src="students-by-subject.svg" title="" >}}
+{{< figure src="students-by-subject.svg" title="" >}}
 
 > Half of engineering and technology businesses are experiencing difficulties in the skills available to them when
 trying to recruit.  The UK needs to generate an estimated 59,000 engineers annually[^1]
 
 The subject breaks down by discipline more distinctly than other subjects. The top 5 disciplines (representing 75% of all students) are mechanical, electrical/electronic, civil, aeronautical, and chemical.
 
-{{< figure library="true" src="engineering-disciplines.svg" title="" >}}
+{{< figure src="engineering-disciplines.svg" title="" >}}
 
 ## Raising Awareness
 
@@ -41,7 +41,7 @@ Awareness of Engineering as a profession is poor. Unless you already know a prof
 
 The engineering institutes do well at providing exciting STEM resources and activities interventions in Key Stage 3 (pre GCSE), continuing into Key Stage 4 (GCSEs), but virtually nothing at A-level.
 
-{{< figure library="true" src="engineering-activities.svg" title="" >}}
+{{< figure src="engineering-activities.svg" title="" >}}
 
 In this key decision-making period for teenagers as they make their career decisions, engineering is losing out to other STEM career pathways such as medicine, which has more outreach activity in sixth form.
 
