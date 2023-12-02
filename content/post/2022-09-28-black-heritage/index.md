@@ -20,7 +20,7 @@ projects: []
 
 <!--more-->
 
-{{< figure library="true" src="coders.jpg" title="" >}}
+{{< figure src="coders.jpg" title="" >}}
 
 Much has been written, over the last twenty years, about the difficulties that young people of Black heritage face in STEM. Yet, despite this awareness, there has been very little progress. Last year, the Royal Society issued a call to action: “(The) STEM sector must step up and end unacceptable disparities in Black staff and students’ academic progression and success.”[^1]
 

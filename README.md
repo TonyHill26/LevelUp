@@ -6,7 +6,7 @@ This site makes extensive use of Markdown syntax - recommend installing a  plugi
 
 ## Running on localhost
 
-There is reference in the site to "wowchemy", which now redirects to Hugo Blox builder. There's a useful page at https://docs.hugoblox.com/getting-started/page-builder/ which explains how it all works.
+This new version of the site uses Hugo Blox builder. There's a useful page at https://docs.hugoblox.com/getting-started/page-builder/ which explains how it all works.
 
 The site compiles using a tool called Hugo. Hugo is "a fast and modern static site generator written in Go, and designed to make website creation fun again". Install it using Homebrew.
 

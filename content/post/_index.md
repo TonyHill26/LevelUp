@@ -1,5 +1,6 @@
 ---
 title: Latest News
+cms_exclude: true
 
 # View.
 #   1 = List
@@ -9,8 +10,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: ''
+  image: ''
 ---
-
-<p>&nbsp;</p>
