@@ -58,3 +58,4 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+theme: ["hugo-cloak-email"]
