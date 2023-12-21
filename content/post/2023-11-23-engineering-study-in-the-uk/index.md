@@ -64,7 +64,7 @@ We will achieve this by:
 * Tutoring underserved A-level maths students in the UK in small groups, delivered in small tutor groups by engineering undergraduates from a local university
 * Developing a tutorial syllabus that makes maths topics relevant to engineering
 
-If you believe you can help us with our goals, please contact us at {{< cloaked_emails/engineering >}}.
+If you believe you can help us with our goals, please contact us at {{< cloakemail "engineering@levellingupstem.co.uk" >}}.
 
 > Read about our launch of Levelling Up: Maths for Engineering [here]({{< ref "/post/2023-11-20-engineering" >}})
 

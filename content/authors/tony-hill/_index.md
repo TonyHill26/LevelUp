@@ -41,6 +41,4 @@ Having grown up on a council estate and being the first in his family to attend 
 
 Aside from mathematics and philanthropy, Dr. Hill is also a keen long-distance runner and walker. In 2014, he became a "Centurion" after walking 100 miles in under 24 hours!
 
-Contact Tony at {{< cloaked_emails/tony-hill >}}
-
-
+Contact Tony at {{< cloakemail "tonyhill1729@gmail.com" >}}

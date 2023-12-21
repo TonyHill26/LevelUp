@@ -44,4 +44,4 @@ Peter Wake went to comprehensive school in Hazel Grove, near Stockport. When stu
 
 Peter enjoys walking, skiing and sailing. His more quirky interests include crosswords, volcanoes and ants.
 
-Contact Peter at {{< cloaked_emails/peter-wake >}}
+Contact Peter at {{< cloakemail "peter.wake@levellingupstem.co.uk" >}}
