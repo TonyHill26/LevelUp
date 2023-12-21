@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Tony Hill
+title: Tony Hill
 slug: tony-hill
 weight: 10
 
@@ -16,7 +16,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Tony Hill is a mathematician, philanthropist, and former teacher.
+bio: Tony Hill is a mathematician, philanthropist, and former teacher.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,12 +33,12 @@ user_groups:
 - Core team
 ---
 
-Dr. Tony Hill was formerly a teacher in the North East before, in the 1970s, pursuing a career in the software industry. He went on to become Chief Executive Officer of Micro Focus, leading the company to a successful float on the London Stock Exchange in 2005.
+Tony Hill was formerly a teacher in the North East before, in the 1970s, pursuing a career in the software industry. He went on to become Chief Executive Officer of Micro Focus, leading the company to a successful float on the London Stock Exchange in 2005.
 
-Since retiring, he has earned a PhD in mathematics - his second! - at Kings College London.
+Since retiring, he has earned a PhD in mathematics - his second! - at King's College London.
 
-Having grown up on a council estate and being the first in his family to attend university, Dr. Hill is passionate about widening participation in higher education. He hopes that the Levelling Up scheme will provide support to a new generation of students from under-represented backgrounds.
+Having grown up on a council estate and being the first in his family to attend university, Tony is passionate about widening participation in higher education. He hopes that the Levelling Up scheme will provide support to a new generation of students from underserved backgrounds.
 
-Aside from mathematics and philanthropy, Dr. Hill is also a keen long-distance runner and walker. In 2014, he became a "Centurion" after walking 100 miles in under 24 hours!
+Aside from mathematics and philanthropy, Tony is also a keen runner and long-distance walker. In 2014, he became a “Centurion” after walking 100 miles in under 24 hours!
 
-Contact Tony at {{< cloakemail "tonyhill1729@gmail.com" >}}
+Contact Tony at {{< cloakemail "tony.hill@levellingupstem.co.uk" >}}
