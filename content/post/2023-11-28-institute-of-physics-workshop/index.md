@@ -130,34 +130,3 @@ Our resources include tablets for physics and maths students to facilitate inter
 
 Lastly, we've seen tangible outcomes, with several students who participated in the program now studying at Durham, a testament to the program's effectiveness.
 
-Now, I'll hand back over to Charles.
-
-### Charles Tracy
-
-Thank you, Peter. Much appreciated.
-
-Next, we'll hear from Savvy at Imperial College, who will discuss their methods for recruiting participants and perhaps touch on undergraduate recruitment as well.
-
-Over to you, Savvy. Thank you.
-
-### Savvy Hersov, Imperial College London
-
-I'm Savvy from Imperial, overseeing the chemistry and physics programs. Our in-person launch was quite significant for us, marking a tradition of outreach since 1975. Our Pimlico connection, a peer-led tutoring scheme, exemplifies our commitment to innovative outreach programs. At Imperial, we're focused on serving students who are often the first in their families to attend university or who face significant barriers to higher education.
-
-Currently, in our second cohort, Levelling Up Imperial started as a pilot and was conducted entirely online. Initially targeting students in specific socioeconomic areas, we aimed to broaden our reach beyond London, focusing on inclusivity in recruitment.
-
-For Cohort 2, we've intensified our marketing, reaching out to over 500 schools and ramping up our email campaigns. Interestingly, we've seen a higher interest in chemistry compared to physics and are exploring ways to balance this.
-
-We've just launched applications for Cohort 3 and have already received a promising number of applications. We kick off with an in-person event, which has proved invaluable for student engagement and confidence-building. The event also offers practical life skills, like traveling independently, which can be a significant hurdle for many.
-
-Throughout the year, we sprinkle information sessions on topics like student finance and personal statements. We've found that direct interaction with our undergraduate students outside of tutorials is incredibly beneficial.
-
-Our support extends to personal statement reviews and interview preparations, including mock interviews. On the technical side, we use a secure version of Teams to foster a sense of community, allowing participants to ask questions and share resources.
-
-Feedback from our first cohort has been positive, with many participants eager for more in-person opportunities, though travel costs and logistics can be challenging.
-
-The impact of our program is evident across the UK, with students pursuing a variety of subjects at different universities. We cherish the gratitude expressed by our students and their families, highlighting the clarity and support they've received.
-
-That concludes my overview. Thank you.
-
-

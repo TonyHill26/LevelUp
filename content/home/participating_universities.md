@@ -15,7 +15,7 @@ The universities we are involved with at the moment are:
 * Edinburgh <sup>3</sup>
 * Glasgow <sup>3</sup>
 * Heriot-Watt <sup>3</sup>
-* Imperial <sup>1</sup>
+* Imperial
 * Kent
 * Loughborough
 * Manchester <sup>2</sup>
