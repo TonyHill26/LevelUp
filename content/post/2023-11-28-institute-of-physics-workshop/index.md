@@ -30,14 +30,14 @@ The broad themes of the event were collaboration between university Physics depa
 
 Birmingham, Durham and Imperial are all delivering Levelling Up: Physics for their third successive year.
 
-If you would be interested in joining the programme, or seeing a recording of the session, please contact LevellingUp@iop.org.
+If you would be interested in joining the programme, please contact LevellingUp@iop.org.
 
 Below is a transcript of the session.. enjoy!
 
 ## Levelling Up: Physics workshop Summary Transcript
 November 27, 2023
 
-*This transcript has been edited from the original audio to make it easier to read. For the original video please contact us.*
+*This transcript has been edited from the original audio to make it easier to read.*
 
 ### Charles Tracy, Institute of Physics (IoP)
 
