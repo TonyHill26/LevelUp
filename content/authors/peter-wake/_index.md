@@ -8,7 +8,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role: 'Catalyser, Levelling Up: Maths for Engineering'
+role: 'Engineering Lead, Levelling Up: Maths for Engineering'
 
 # Organizations/Affiliations
 organizations:
