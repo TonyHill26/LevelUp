@@ -7,7 +7,7 @@ slug: tony-hill-presents-queen-marys
 categories: ["Events", "News"]
 tags: ["Tony Hill", "Queen Mary's University", "STEM", "EDI"]
 subtitle: "Celebrating Equality, Diversity, and Inclusion in Science and Engineering"
-summary: "Join us as Tony Hill, founder of Levelling Up: STEM, presents at Queen Mary's University on June 27th."
+summary: ''
 authors: []
 featured: yes
 image:
