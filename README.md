@@ -1,3 +1,7 @@
+# Deploy Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f1a4de7b-5717-48b6-8a54-e5466faf45a6/deploy-status)](https://app.netlify.com/sites/nifty-ptolemy-7d5b1d/deploys)
+
 # Maintaining this site
 
 Download to your local machine and edit with Visual Studio code.
