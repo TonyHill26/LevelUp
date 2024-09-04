@@ -13,5 +13,6 @@ The learned societies we are involved with at the moment are:
 - The Chartered Institute for IT (BCS)
 - Institute of Physics (IOP)
 - Royal Society of Chemistry (RSC)
+- Royal Academy of Engineering (RAEng)
 
-We are looking for more support in engineering .. please see our [blog post]({{< ref "/post/2023-11-20-engineering" >}}) or contact us at {{< cloakemail "engineering@levellingupstem.co.uk" >}}.
+We are delighted that the Royal Academy of Engineering (RAEng) is supporting us in the new collaboration for *Levelling Up: Maths for Engineering* run by the IMA.
