@@ -44,7 +44,7 @@ user_groups:
 
 Simon spent most of his career in financial services, having initially qualified as a Chartered Accountant.  Latterly, Simon was one of the Founding Partners in Fundsmith, a fund management business, which he helped launch and saw it grow into a market leading business. He left Fundsmith in 2021 and he is currently closely involved with two more start up businesses, gaitQ and Living Map, both of which he is on the Board of.
 
-Simon is also the Chair of the London Library and is a Trustee of the Royal Institution.  Simon was introduced to Tony Hill in 2021 and has helped Tony build the programme, being particularly involved in the Scottish programme, called Reaching Higher.
+Simon is also the Chair of the London Library and is a Trustee of the Royal Institution.  Simon was introduced to Tony Hill in 2021 and has helped Tony build the programme since then.
 
 A long advocate of the aims of Levelling Up: STEM, Simon was instantly drawn to the chance to create something which can have a large, and scaleable, impact. Changing enthusiastic and driven student’s perceptions and enriching their skills, helping them to successfully gain a place at University and then achieve a good degree is a privilege.
 
