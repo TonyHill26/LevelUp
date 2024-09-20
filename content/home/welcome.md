@@ -26,9 +26,9 @@ advanced:
 
 The participating university departments are supported, and guided, by their Hub. The Hub is  led by a learned society or a deputising university. In Maths, three learned societies (LMS, IMA, EMS) play a dominant role. For Science, the lead responsibility is taken by a university - Birmingham/IOP (Physics) and Durham/RSC (Chemistry).
 
-**For all UK universities**
+**For all universities in England and Wales**
 
-Students from underserved groups can be hard to reach. Accordingly, our central principle is that participating universities should intervene close to home and make their own determination of the precise underrepresentation focus. The programme is open to all UK universities. Due to its central role in STEM, there is a special focus on Maths.
+Students from underserved groups can be hard to reach. Accordingly, our central principle is that participating universities should intervene close to home and make their own determination of the precise underrepresentation focus. The programme is open to all universities in England and Wales. Due to its central role in STEM, there is a special focus on Maths.
 
 **For all underserved groups.**
 
