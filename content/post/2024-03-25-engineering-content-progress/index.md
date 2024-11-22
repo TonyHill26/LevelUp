@@ -2,14 +2,11 @@
 title: 'Engineering Group - Content Development'
 date: '2024-03-25'
 lastmod: '2024-03-25'
-# hugo server --buildDrafts to see this post!
-# draft: true
 slug: engineering-group-content-delivery-progress
 categories: []
 tags: []
 subtitle: ''
 summary: ''
-authors: ['peter-wake']
 featured: yes
 image:
   caption: ''
@@ -67,8 +64,6 @@ The content development steering group are:
 |     Shaheen Hassan    |     Assistant Professor                                                          |     Warwick Manufacturing Group                                  |
 |     Tony Hill         |     Founder                                                                      |     Levelling Up: STEM                                           |
 |     Peter Wake        |     Engineering Lead                                                             |     Levelling Up: STEM                                           |
-
-If you are interested in joining the group, please let us know! Email us at {{< cloakemail "engineering@levellingupstem.co.uk" >}}.
 
 
 ## Progress

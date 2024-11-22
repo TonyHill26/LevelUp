@@ -9,7 +9,6 @@ categories: []
 tags: []
 subtitle: ''
 summary: ''
-authors: ['peter-wake']
 featured: yes
 image:
   caption: ''
@@ -46,7 +45,5 @@ The essential element is to arrange for your undergraduates to tutor A-level stu
 > Read our post about Engineering Study in the UK [here]({{< ref "/post/2023-11-23-engineering-study-in-the-uk" >}})
 >
 > Read our post about Engineering Maths Content Development [here]({{< ref "/post/2024-03-25-engineering-content-progress" >}})
-
-Contact us now at {{< cloakemail "engineering@levellingupstem.co.uk" >}}
 
 ![The IMA](ima-logo.gif)

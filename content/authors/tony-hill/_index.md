@@ -40,5 +40,3 @@ Since retiring, he has earned a PhD in mathematics - his second! - at King's Col
 Having grown up on a council estate and being the first in his family to attend university, Tony is passionate about widening participation in higher education. He hopes that the Levelling Up scheme will provide support to a new generation of students from underserved backgrounds.
 
 Aside from mathematics and philanthropy, Tony is also a keen runner and long-distance walker. In 2014, he became a “Centurion” after walking 100 miles in under 24 hours!
-
-Contact Tony at {{< cloakemail "tony.hill@levellingupstem.co.uk" >}}

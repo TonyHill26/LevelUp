@@ -41,6 +41,4 @@ We are looking for:
 * university engineering departments that would be interested in participating (perhaps your university is already participating in Levelling Up: Maths or Physics!). Typically there will be an academic leader, with delivery being co-ordinated by the EDI / outreach team at the university (supported by our Hub)
 * academics that would be interested in joining a small, multi-university team to develop the course content
 
-Please do get in touch! Email us at {{< cloakemail "engineering@levellingupstem.co.uk" >}}
-
 > Read our post about Engineering Study in the UK [here]({{< ref "/post/2023-11-23-engineering-study-in-the-uk" >}})
