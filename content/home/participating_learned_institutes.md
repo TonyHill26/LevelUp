@@ -9,6 +9,7 @@ The learned societies we are involved with at the moment are:
 
 - London Mathematical Society (LMS)
 - Institute of Mathematics and its Applications (IMA)
+- Royal Statistical Society (RSS)
 - The Chartered Institute for IT (BCS)
 - Institute of Physics (IOP)
 - Royal Society of Chemistry (RSC)

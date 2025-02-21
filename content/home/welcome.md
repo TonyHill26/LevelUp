@@ -24,7 +24,7 @@ advanced:
 
 **An ambitious access programme**
 
-The participating university departments are supported, and guided, by their Hub. The Hub is  led by a learned society or a deputising university. In Maths, three learned societies (LMS, IMA, EMS) play a dominant role. For Science, the lead responsibility is taken by a university - Birmingham/IOP (Physics) and Durham/RSC (Chemistry).
+The participating university departments are supported, and guided, by their Hub. The Hub is  led by a learned society or a deputising university. In Maths, three learned societies (LMS, IMA, RSS) have collaborated to build the programme. For Science, the lead responsibility is taken by a university - Birmingham/IOP (Physics) and Durham/RSC (Chemistry).
 
 **For all universities in England and Wales**
 
