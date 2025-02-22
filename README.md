@@ -10,6 +10,8 @@ This site makes extensive use of Markdown syntax - recommend installing a  plugi
 
 ## Running on localhost
 
+Unfortunately this site won't run on recent versions of Hugo. The more recent versions completely change the way everything works and it will be a big job to redesign the site. Please see [Installing Hugo 0.120.3 on macOS (Apple Silicon)](install_hugo_0.120.3.md). When we do a site redesign, it would make sense to change from the Academic CV theme.
+
 This new version of the site uses Hugo Blox builder. There's a useful page at https://docs.hugoblox.com/getting-started/page-builder/ which explains how it all works.
 
 The site compiles using a tool called Hugo. Hugo is "a fast and modern static site generator written in Go, and designed to make website creation fun again". Install it using Homebrew.
